@@ -1,0 +1,1 @@
+{"description": "Intelligent code completion for Ruby in the Atom Editor. Requires Rsense.", "url": "https://github.com/rsense/SublimeRsense", "platforms": ["*"], "version": "0.2.0", "sublime_text": "*", "dependencies": []}

@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Themes/Flat_Dark.tmTheme",
+	"detect_indentation": false,
+	"font_face": "Monaco",
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

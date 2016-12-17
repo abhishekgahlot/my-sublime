@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"1Self",
+		"Coffee Color Scheme",
+		"Coffee Formatter",
+		"CoffeeCompile",
+		"CoffeeScript",
+		"Dracula Color Scheme",
+		"ESLint",
+		"GoSublime",
+		"JavaScriptNext - ES6 Syntax",
+		"Jedi - Python autocompletion",
+		"JSHint",
+		"JSHint Gutter",
+		"Kerbal Space Program Configuration Syntax",
+		"Lucario Color Scheme",
+		"Package Control",
+		"RSense",
+		"SublimeClang",
+		"Theme - Spacegray"
+	]
+}
